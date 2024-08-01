@@ -35,6 +35,8 @@ import kotlin.math.roundToInt
  * A layout that shows an icon and a text element used as the content for a FAB that extends with
  * an animation.
  */
+
+//
 @Composable
 fun AnimatingFabContent(
     icon: @Composable () -> Unit,
